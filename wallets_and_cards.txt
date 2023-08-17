@@ -1,0 +1,4 @@
+Wallets:
+myWallet - Balance: 0
+debitWallet - Balance: 0
+creditWallet - Balance: 0
